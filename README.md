@@ -11,7 +11,7 @@
 - **Уведомления по почте:** о покупках, доставке товара и других важных событиях.
 Идея в том, чтобы сделать торговлю цифровыми товарами честной, прозрачной и автоматизированной — без посредников и с максимальным доверием между участниками.
 
-## Документация
+## Содержание
 - [Отчет ВКР](https://github.com/Alexander-s-Digital-Marketplace/docs/blob/master/vkr.pdf)
 - [Презентация](https://github.com/Alexander-s-Digital-Marketplace/docs/blob/master/presentation.pdf)
 - [Диаграмма компонентов](https://github.com/Alexander-s-Digital-Marketplace/docs/blob/master/component_diagram.png)
